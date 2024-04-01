@@ -28,6 +28,6 @@ Buildings
   *microphone|microphones
     name:Microphone
     desc:Gains 0.1 Astley/second
-    icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/mic.jpeg
+    icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/mic.png
     on tick:yield 0.1 astley
     cost:15 astleys
