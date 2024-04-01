@@ -26,7 +26,7 @@ Resources
     
 Buildings
   *microphone|microphones
-    name:Microphone|Microphones
+    name:Microphone
     desc:Gains 0.1 Astley/second
     icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/mic.jpeg
     on tick:yield 0.1 astley
