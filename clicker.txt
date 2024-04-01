@@ -24,3 +24,10 @@ Resources
     desc:This is an astley. You can use this to buy Rick Astley merch.
     icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/icon.jpeg
     
+Buildings
+  *microphone|microphones
+    name:Microphone|Microphones
+    desc:Gains 0.1 Astley/second
+    icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/mic.jpeg
+    on tick:yield 0.1 astley
+    cost:15 astleys
