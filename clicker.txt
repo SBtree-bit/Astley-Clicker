@@ -1,0 +1,26 @@
+Let's make a game!
+    name:Astley Clicker
+    author:SBtree
+    desc:Click Rick Astley to progress!
+    version:1.0
+
+Settings
+  background:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/background.jpeg
+  stylesheet:stuff/bigBlue.css
+
+Buttons
+  *rickAstley
+    name:Rick Astley
+    desc:Click this to farm astleys. Grants 1 astley per click.
+    on click:yield 1 astley
+    class:bigButton hasFlares
+    no text
+    on click:anim icon wobble
+    icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/rick.jpeg
+
+Resources
+  *astley|astleys
+    name:Astley|Astleys
+    desc:This is an astley. You can use this to buy Rick Astley merch.
+    icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/icon.jpeg
+    
