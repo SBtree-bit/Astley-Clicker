@@ -16,7 +16,7 @@ Buttons
     class:bigButton hasFlares
     no text
     on click:anim icon wobble
-    icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/rick.jpeg
+    icon:https://raw.githubusercontent.com/SBtree-bit/Astley-Clicker/main/rick.png
 
 Resources
   *astley|astleys
